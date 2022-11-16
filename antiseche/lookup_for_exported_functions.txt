@@ -1,0 +1,1 @@
+nm absolute-file-path.dylib

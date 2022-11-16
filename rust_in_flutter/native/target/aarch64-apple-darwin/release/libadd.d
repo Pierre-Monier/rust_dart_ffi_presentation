@@ -1,0 +1,1 @@
+/Users/pierremonier/Code/rust_dart_ffi_presentation/rust_in_flutter/native/target/aarch64-apple-darwin/release/libadd.dylib: /Users/pierremonier/Code/rust_dart_ffi_presentation/rust_in_flutter/native/src/lib.rs

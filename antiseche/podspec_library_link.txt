@@ -1,0 +1,1 @@
+s.vendored_libraries = 'libs/libadd.dylib'
