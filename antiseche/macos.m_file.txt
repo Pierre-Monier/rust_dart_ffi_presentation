@@ -1,5 +1,4 @@
 #import "AddApp.h"
-#import "bridge_generated.h"
 
 @implementation AddApp
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {}
