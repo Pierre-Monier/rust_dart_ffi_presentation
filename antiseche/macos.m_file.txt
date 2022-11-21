@@ -1,5 +1,5 @@
-#import "AddApp.h"
+#import "DemoFlutter.h"
 
-@implementation AddApp
+@implementation DemoFlutter
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {}
 @end

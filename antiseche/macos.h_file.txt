@@ -1,4 +1,4 @@
 #import <FlutterMacOS/FlutterMacOS.h>
 
-@interface AddApp : NSObject <FlutterPlugin>
+@interface DemoFlutter : NSObject <FlutterPlugin>
 @end
